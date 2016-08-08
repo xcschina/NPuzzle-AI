@@ -1,6 +1,6 @@
 # NPuzzle-AI
 
-An N-Puzzle game AI written in javascript.
+An N-Puzzle game AI written in javascript. ([中文博客](http://blog.csdn.net/qq_22885773/article/details/52144827))
 
 ## Demo
 
