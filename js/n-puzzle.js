@@ -268,7 +268,7 @@ function NPuzzle(src_, des_) {
             }
         }
 
-        return 3 * (1 * wrongNext + 0 * wrong + 2 * manhatten + 1 * geometric);
+        return 5 * (1 * wrongNext + 0 * wrong + 2 * manhatten + 1 * geometric);
     }
 
     /*
