@@ -2,9 +2,13 @@
 
 An N-Puzzle game AI written in javascript.
 
-## Demos
+## Demo
 
 ![image loading...](img/demo.gif)
+
+## Algorithm Reference
+
+[Github: DataStructureAndAlgorithm](https://github.com/chuyangLiu/DataStructureAndAlgorithm)
 
 ## License
 
