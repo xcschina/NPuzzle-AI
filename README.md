@@ -1,14 +1,15 @@
 # NPuzzle-AI
 
-An N-Puzzle game AI written in javascript. ([中文博客](http://blog.csdn.net/qq_22885773/article/details/52144827))
+An N-Puzzle game AI written in javascript.
 
 ## Demo
 
 ![image loading...](img/demo.gif)
 
-## Algorithm Reference
+## Reference
 
-[Github: DataStructureAndAlgorithm](https://github.com/chuyangLiu/DataStructureAndAlgorithm)
+* [Github: stevennL/AlgorithmLibrary](https://github.com/stevennL/AlgorithmLibrary)
+* [中文博客](http://blog.csdn.net/qq_22885773/article/details/52144827)
 
 ## License
 
